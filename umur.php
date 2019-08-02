@@ -13,4 +13,4 @@ $y =$jtiniTama + $jtiniToni;
 $z = $y/$x;
 echo "$x X = $jtiniTama + $jtiniToni<br>";
 echo "$x X = $y<br>";
-
+?>
