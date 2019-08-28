@@ -13,7 +13,7 @@
    <h2>Pilih Jurusan Anda :</h2> 
    <input type="radio" name="jurusan" value="TI" checked>
    Teknik Informatika<br>
-   <input type="radio" name="jurusan" value="Si">
+   <input type="radio" name="jurusan" value="Sis">
    Sistem Informatika<br> 
    <input type="radio" name="jurusan" value="Sk">
    Sistem Komputer<br> 
