@@ -13,7 +13,7 @@
       <h2>Form Pendaftaran</h2> 
       NO PENDAFTARAN <br> <input type="number" name="NOPENDAFTARAN"><br>
       <br> 
-      NISN :<br> <input type="number" name="NISN"><br>
+      NISN :<br> <input type="number" name="NISN"><sbr>
       <br>
       NAMA :<br> <input type="text" name="NAMA"><br>
       <br>

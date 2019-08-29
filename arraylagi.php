@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -34,7 +34,7 @@
             
             
                 <?php }?>
-                <input type="submit" name="sbm" value= "simpan">
+                <input type="submit" name="submit" value= "simpan">
                 <input type="reset"  value= "reset">
 
          </from>
