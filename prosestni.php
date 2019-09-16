@@ -1,8 +1,8 @@
 <?php
 if (isset($_POST['simpan'])) {
     $nama = $_POST['nama'];
-    $nama = $_POST['nama'];
-    $nama = $_POST['nama'];
+    $tinggibadan = $_POST['tb'];
+    $beratbadan = $_POST['bb'];
 
     function TNI($tb,$bb)
     {
@@ -13,7 +13,7 @@ if (isset($_POST['simpan'])) {
      }
     }
     echo "NAMA :" . $NAMA  ."<br>";
-    echo "ALAMAT : " . $ALAMAT  . "<br>";
+    echo "TINGGI BADAN : " . $tb  . "<br>";
     echo "KECAMATAN : ". $KECAMATAN  . "<br>";
     echo "KOTA : " . $KOTA . "<br>";
 
